@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aayushi1995/data-visualization.git/static/css/main.eccf2cad.css",
+    "main.js": "/aayushi1995/data-visualization.git/static/js/main.ea41d1ce.js",
+    "static/media/python.svg": "/aayushi1995/data-visualization.git/static/media/python.7ff7402019a46f1b46f15848bd570991.svg",
+    "index.html": "/aayushi1995/data-visualization.git/index.html",
+    "static/media/robo.svg": "/aayushi1995/data-visualization.git/static/media/robo.fbdb68c67aeefb646f86eb6eb8671128.svg",
+    "static/media/edit.svg": "/aayushi1995/data-visualization.git/static/media/edit.b17ab371b30255a14f6d588c06dca67b.svg",
+    "static/media/upload.svg": "/aayushi1995/data-visualization.git/static/media/upload.2c5494f2f6dde73e2a814a7764d0dcc3.svg",
+    "static/media/Avatar.svg": "/aayushi1995/data-visualization.git/static/media/Avatar.c95dfc7e38f67d231baba485693917b1.svg",
+    "static/media/chevron-right.svg": "/aayushi1995/data-visualization.git/static/media/chevron-right.ee14b14f8e4e5508b10fa21b1e6d3734.svg",
+    "static/media/chart.svg": "/aayushi1995/data-visualization.git/static/media/chart.10d647d66368da27857fa116823c36c9.svg",
+    "main.eccf2cad.css.map": "/aayushi1995/data-visualization.git/static/css/main.eccf2cad.css.map",
+    "main.ea41d1ce.js.map": "/aayushi1995/data-visualization.git/static/js/main.ea41d1ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eccf2cad.css",
+    "static/js/main.ea41d1ce.js"
+  ]
+}
